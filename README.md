@@ -3,13 +3,6 @@
 
 <br>
 
-<p align="right">
-  <h3>Visitas al perfil :-</h3>
-  <img src="https://komarev.com/ghpvc/?username=diegobermejogarciamora&label=Profile%20views&color=0e75b6&style=flat" alt="diegobermejogarciamora" />
-</p>
-
-<br>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animación" /></p>
 
 - 🌱 Actualmente aprendiendo Desarrollo Web y otros lenguajes de programación
