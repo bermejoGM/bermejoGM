@@ -84,22 +84,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
   </a>
 </p>
-
-<br>
-
-<h3>Datos estadísticos :-</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegobermejogarciamora&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact" alt="diegobermejogarciamora" bg_color=#808080/>
-</p>
-
-<br>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegobermejogarciamora&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="diegobermejogarciamora" />
-</p>
-
-<br>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegobermejogarciamora&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="diegobermejogarciamora" />
-</p>
