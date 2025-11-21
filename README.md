@@ -9,7 +9,7 @@
 
 - 📫 Puedes contactarme en **diegobermejogarciamora@gmail.com**
 
-- ⚡ Curiosidad: Me apasiona la buena música y la comida 🎵
+- ⚡ Curiosidad: Me apasionan los coches y los videojuegos
 
 <br>
 
