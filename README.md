@@ -9,7 +9,7 @@
 
 - 📫 Puedes contactarme en **diegobermejogarciamora@gmail.com**
 
-- ⚡ Curiosidad: Me apasionan los coches y los videojuegos
+- ⚡ Curiosidad: Me apasionan los coches, la inteligencia artificial y los videojuegos
 
 <br>
 
