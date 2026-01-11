@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente aprendiendo Desarrollo Web y otros lenguajes de programación
 
-- 📫 Puedes contactarme en **diegobermejogarciamora@gmail.com**
+- 📫 Puedes contactarme en **diegobermejogarciamora@gmail.com** **www.linkedin.com/in/diego-bermejo-garcia-mora**
 
 - ⚡ Curiosidad: Me apasionan los coches, la inteligencia artificial y los videojuegos
 
