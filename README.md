@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Diego Bermejo García-Mora</h1>
+<h1 align="center">Hola 👋, soy Diego Bermejo</h1>
 <h3 align="center">Desarrollador de Aplicaciones Web Junior</h3>
 
 <br>
