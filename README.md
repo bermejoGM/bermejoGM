@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, soy Diego Bermejo García-Mora</h1>
-<h3 align="center">Estudiante de Desarrollo de Aplicaciones Web</h3>
+<h3 align="center">Desarrollador de Aplicaciones Web Junior</h3>
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animación" /></p>
-
-- 🌱 Actualmente aprendiendo Desarrollo Web y otros lenguajes de programación
 
 - 📫 Puedes contactarme en **diegobermejogarciamora@gmail.com** **www.linkedin.com/in/diego-bermejo-garcia-mora**
 
@@ -41,5 +39,8 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+  <a href="[https://reactjs.org/](https://www.electronjs.org/es/)" target="_blank" rel="noreferrer">
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://www.electronjs.org/es/assets/img/logo.svg)" alt="electronjs" width="40" height="40" />
   </a>
 </p>
